@@ -2,7 +2,7 @@
 
 
 # About Me:
-I’m a student focused on coding and problem-solving. I enjoy working with Java and front-end development.
+I’m a student focused on coding and problem-solving. I enjoy working with Java and development.
 
 ## Skills
 
